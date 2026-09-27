@@ -1,0 +1,27 @@
+# Phạm Văn Ngoan (Pham Van Ngoan · Ngoan Phạm · Ngoan Pham · NgoanPV)
+
+> AI builder based in Viet Nam. Builds AI systems that listen, reason and hold up in production: multi-agent systems, voice AI, retrieval (RAG / GraphRAG) and the evaluation that keeps them honest.
+
+- Also known as: Pham Van Ngoan, Ngoan Phạm, Ngoan Pham, NgoanPV, ngoanpv
+- Website: https://ngoanpv.github.io/
+- GitHub: https://github.com/ngoanpv
+- LinkedIn: https://www.linkedin.com/in/ngoanpv
+- App Store (side projects): https://apps.apple.com/vn/developer/ngoan-pham-van/id1711897094
+
+## Along the way
+- 1st on two national Vietnamese LLM benchmarks (VMLU, VLSP 2023)
+- 9th globally at Interspeech 2025 MLC-SLM, multilingual conversational ASR
+- First in Southeast Asia to pass iBeta / ISO 30107-3 with passive face liveness
+- Production voice agent from ~5 s to ~2 s per turn; LLM review of 100% of customer calls
+- Company-wide multi-agent knowledge assistant with an eval gate on every release
+
+## Currently exploring
+- Simulated crowds of personas grounded in real answers
+- How reactions spread through networks of agents
+- Evals that can abstain when the evidence isn't there
+- Benchmarking the reliability and calibration of LLM agents
+
+## Open source
+- DeepInterview — voice-first multi-agent mock interviewer: https://github.com/ngoanpv/DeepInterview
+- llama2_vietnamese: https://github.com/ngoanpv/llama2_vietnamese
+- albert_vi: https://github.com/ngoanpv/albert_vi

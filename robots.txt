@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /film.html
+
+# Agents: a plain-text summary lives at /llms.txt
+
+Sitemap: https://ngoanpv.github.io/sitemap.xml
