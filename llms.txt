@@ -20,6 +20,8 @@
 - How reactions spread through networks of agents
 - Evals that can abstain when the evidence isn't there
 - Benchmarking the reliability and calibration of LLM agents
+- Memory for AI agents and robots: what to keep, forget and recall
+- On-device models: small, quantized, distilled, running offline
 
 ## Open source
 - DeepInterview — voice-first multi-agent mock interviewer: https://github.com/ngoanpv/DeepInterview
